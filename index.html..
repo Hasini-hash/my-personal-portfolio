@@ -7,6 +7,7 @@
   <body>
     <div id="app">
       <input place folder="Enter your name" type='text'/>
+<input place folder="Enter your password" type="password"/>
 
     </div>
   </body>
