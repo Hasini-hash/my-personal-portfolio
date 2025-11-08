@@ -4,10 +4,10 @@
     <title>JavaScript Sandbox</title>
     <meta charset="UTF-8" />
   </head>
-
   <body>
     <div id="app">
       <input place folder="Enter your name" type='text'/>
+
     </div>
   </body>
 </html>
